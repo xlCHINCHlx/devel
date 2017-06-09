@@ -1,1 +1,1 @@
-Fedora 25+Android clang5 standalone toolchain
+Fedora 25 with an Android NDK r15 clang5 standalone toolchain
